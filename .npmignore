@@ -1,0 +1,14 @@
+node_modules
+coverage
+__tests__
+src
+.eslintrc
+.commitlintrc
+jest.config.js
+.prettierrc
+.prettierignore
+.husky
+.editorconfig
+.gitignore
+tsconfig.json
+index.ts
